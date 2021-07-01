@@ -1,0 +1,6 @@
+hello git!
+常用命令
+git init 
+git ll
+pwd
+git config --global user.name Lorry_V587
