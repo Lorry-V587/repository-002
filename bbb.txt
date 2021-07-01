@@ -1,2 +1,3 @@
 hotdog，真好的话！master
-向龙十八炸
+master合并hot_fix，产生文件冲突。
+重修编辑后看看合并结果。
